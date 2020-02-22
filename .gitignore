@@ -3,7 +3,4 @@ venv/
 *.pyc
 db.json
 secrets.py
-*.py[cod]
-*.sqlite
-.pytest_cache/
-__pycache__/
+
